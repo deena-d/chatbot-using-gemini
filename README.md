@@ -47,6 +47,11 @@ Copy code
 
 You can add this README file to your project repository to provide information about setting up and using the chat server with Google Generative AI.
 
+## Demo video
+
+
+
+https://github.com/deena-d/chatbot-using-gemini/assets/107647091/6158c40f-1ea4-46a6-afdc-848a360b17c7
 
 
 
