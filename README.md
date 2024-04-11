@@ -6,7 +6,6 @@ This project sets up a chat server using Google Generative AI, allowing users to
 
 1. Clone the repository to your local machine:
 
-```bash
 git clone <repository_url>
 Install dependencies:
 bash
@@ -21,8 +20,7 @@ Copy code
 API_KEY=your_api_key_here
 Usage
 Start the server:
-bash
-Copy code
+
 npm start
 Open a web browser and navigate to http://localhost:3000 to access the chat interface.
 
